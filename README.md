@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nicolás Drzazga</h1>
-<h3 align="center">I'm a software developer with more than 6 years working with .NET technologies for local and international companies.</h3>
+<h3 align="center">I'm a software developer working with .NET technologies.</h3>
 
 - 🔭 I’m currently working in **2D Soluciones**
 
