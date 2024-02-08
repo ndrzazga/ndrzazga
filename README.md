@@ -1,4 +1,4 @@
-o<h1 align="center">Hello there 👋, I'm Nicolás Drzazga</h1>
+<h1 align="center">Hello there 👋, I'm Nicolás Drzazga</h1>
 <h3 align="center">I'm a software developer working with .NET technologies.</h3>
 
 - 🔭 I’m currently working in **2D Soluciones**
