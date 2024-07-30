@@ -33,7 +33,7 @@
   <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/></a>
   &emsp;
   <a href="https://rabbitmq.com/" target="_blank" rel="noreferrer">
-  <img src="https://rabbitmq.com/img/logo-rabbitmq.svg" alt="rabbitmq" width="40" height="40"/></a>
+  <img src="https://www.rabbitmq.com/img/rabbitmq-logo-with-name.svg" alt="rabbitmq" width="40" height="40"/></a>
   &emsp;
   <a href="https://cloud.google.com/?hl=es" target="_blank" rel="noreferrer">
   <img src="https://www.gstatic.com/devrel-devsite/prod/v0e0f589edd85502a40d78d7d0825db8ea5ef3b99ab4070381ee86977c9168730/cloud/images/cloud-logo.svg" alt="googlecloud" width="40" height="40"/></a>
